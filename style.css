@@ -1,0 +1,21 @@
+#pimg{
+    max-width: 600px;
+}
+h4{
+    max-width: 60%;
+    
+}
+/* #pizzab{
+    align-items: center;
+    justify-content: center;
+} */
+.center{
+    display: flex;
+    justify-content: center;
+    max-width: 60%;
+    margin: auto;
+    
+}
+ul{
+    width: 60%;
+}
